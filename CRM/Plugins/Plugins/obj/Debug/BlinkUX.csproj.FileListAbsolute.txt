@@ -1,0 +1,9 @@
+C:\Source\Blink\CRM\Survey\Survey\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Source\Blink\CRM\Survey\Survey\bin\Debug\Microsoft.IdentityModel.dll
+C:\Source\Blink\CRM\Survey\Survey\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Source\Blink\CRM\Survey\Survey\obj\Debug\BlinkUX.csproj.CoreCompileInputs.cache
+C:\Source\Blink\CRM\Survey\Survey\obj\Debug\BlinkUX.csproj.CopyComplete
+C:\Source\Blink\CRM\Survey\Survey\bin\Debug\BlinkUXPlugins.dll
+C:\Source\Blink\CRM\Survey\Survey\bin\Debug\BlinkUXPlugins.pdb
+C:\Source\Blink\CRM\Survey\Survey\obj\Debug\BlinkUXPlugins.dll
+C:\Source\Blink\CRM\Survey\Survey\obj\Debug\BlinkUXPlugins.pdb
