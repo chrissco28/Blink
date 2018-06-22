@@ -66,10 +66,12 @@
     <Reference Include="System.Runtime.Serialization" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="EmailEventPlugin.cs" />
+    <Compile Include="Plugins\SurveyAnswerPlugin.cs" />
+    <Compile Include="Plugins\EmailEventPlugin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.config" />
     <None Include="packages.config" />
     <None Include="plugins.snk" />
   </ItemGroup>
